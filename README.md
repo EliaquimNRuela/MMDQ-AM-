@@ -81,7 +81,6 @@ streamlit run app.py
 
 ### Charts (charts.py)
 - Gráfico de barras dos municípios mais afetados
-- Customização visual com tema IPAAM
 - Ordenação automática por número de denúncias
 
 ## 🔧 Configurações
