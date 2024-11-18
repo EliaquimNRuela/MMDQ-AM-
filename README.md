@@ -57,7 +57,7 @@ streamlit run app.py
 
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="preview.png" width="200"/>
+    <img src="preview.png"/>
   </div>
 </div>
 
