@@ -55,7 +55,6 @@ streamlit run app.py
 
 
 
-ADICIONAIS
 
 ## 📊 Componentes Principais
 
