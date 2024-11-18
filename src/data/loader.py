@@ -7,7 +7,7 @@ def load_data():
     try:
         focos_por_municipio = {}
         
-        with open('geojsoninpe.geojson') as f:
+        with open('geojsoninpe.geojson', encoding='utf-8') as f:
             data = json.load(f)
             
             for feature in data['features']:
