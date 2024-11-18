@@ -19,24 +19,35 @@ Sistema de monitoramento e visualização de denúncias de queimadas no estado d
 1. Clone o repositório
 
 git clone https://github.com/EliaquimNRuela/MMDQ-AM.git
+
 cd MMDQ-AM
 
 2. Crie um ambiente virtual
+   
 python -m venv venv
 
 3 - Ative o ambiente virtual
 
 Windows:
+
 venv\Scripts\activate
+
 Linux/MacOS:
+
 source venv/bin/activate
 
 4  - rode pip install -r requirements.txt ou instale os pacotes manualmente:
+
 streamlit>=1.28.0
+
 pandas>=2.0.0
+
 pydeck>=0.8.0
+
 plotly>=5.18.0
+
 numpy>=1.24.0
+
 geojson>=3.0.0
 
 5 - execute o comando:
