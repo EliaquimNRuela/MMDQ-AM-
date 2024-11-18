@@ -1,4 +1,4 @@
-Sistema de monitoramento e visualização de denúncias de queimadas no estado do Amazonas, desenvolvido para o IPAAM (Instituto de Proteção Ambiental do Amazonas).
+Sistema de monitoramento e visualização de denúncias de queimadas no estado do Amazonas.
 
 ## 🌳 Funcionalidades
 
