@@ -7,7 +7,7 @@ from src.data.loader import load_data
 from src.utils.processing import process_data_batch, calculate_metrics
 
 st.set_page_config(
-    page_title="IPAAM - Monitoramento de Queimadas",
+    page_title="MDQ-Am: Monitoramento e Denúncias de Queimadas no Amazonas",
     layout="wide",
 )
 
@@ -48,7 +48,6 @@ Sua denúncia é fundamental para preservarmos a Amazônia <3
 st.markdown("""
 ---
 <div style='text-align: center; color: #666;'>
-    © 2024 Amazônia - @Davedevs<br>
-    Desenvolvido com ❤️ por DaveDev
+    © 2024 Amazônia - Desenvolvido por estudantes da FMF Wyden
 </div>
 """, unsafe_allow_html=True)
